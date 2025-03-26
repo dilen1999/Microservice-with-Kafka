@@ -1,0 +1,11 @@
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.deps.json
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.dll
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.pdb
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.AssemblyInfoInputs.cache
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.AssemblyInfo.cs
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.csproj.CoreCompileInputs.cache
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.dll
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\refint\Ecommerce.Model.dll
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.pdb
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\ref\Ecommerce.Model.dll
