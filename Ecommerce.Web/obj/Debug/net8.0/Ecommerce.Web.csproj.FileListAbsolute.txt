@@ -31,3 +31,4 @@ D:\Git Personal\Microservice\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\refint\Eco
 D:\Git Personal\Microservice\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.pdb
 D:\Git Personal\Microservice\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.genruntimeconfig.cache
 D:\Git Personal\Microservice\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+D:\Git Personal\Microservice\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.sourcelink.json
