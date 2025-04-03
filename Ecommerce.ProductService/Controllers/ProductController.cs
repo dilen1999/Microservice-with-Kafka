@@ -10,9 +10,16 @@ namespace Ecommerce.ProductService.Controllers
     public class ProductController(ProductDbContext dbContext) : ControllerBase
     {
         [HttpGet]
+        // get product
         public async Task<List<ProductModel>> getProducts()
         {
             return await dbContext.Products.ToListAsync();
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ProductModel> GetProduct(int id)
+        {
+            return await dbContext.Products.FindAsync(id);
         }
     }
 }

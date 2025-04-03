@@ -6,6 +6,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+
+
+//builder.Services.AddHttpClient();
+builder.Services.AddHttpClient("ProductAPI", client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7026/");
+}).ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+{
+    ServerCertificateCustomValidationCallback = (m, crt, chn, e) => true
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
